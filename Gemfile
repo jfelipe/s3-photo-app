@@ -12,6 +12,9 @@ gem 'font-awesome-sass', '~> 4.7.0'
 gem 'devise'
 gem 'devise-bootstrap-views'
 gem 'stripe'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
 
 group :development, :test do
   gem 'sqlite3'
